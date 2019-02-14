@@ -1,0 +1,12 @@
+*.meta
+*csproj
+*.sln
+/.vs
+/.gradle
+_Builds/
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+Temp/
